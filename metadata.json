@@ -1,0 +1,6 @@
+{
+  "name": "VerraOffice - Sistem Administrasi Perkantoran Digital",
+  "description": "Pusat digitalisasi administrasi kantor modern: surat masuk/keluar, disposisi digital, e-archive, formulir digital, approval bertingkat, e-signature, kalender agenda, tugas, inventaris aset, dan buku tamu digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
